@@ -1,5 +1,6 @@
 # GROUP 4 Hotel Cancellation Prediction
-                                              ## Kavita Jattansingh, Tiane Warner, Christon Lewis 
+
+## Kavita Jattansingh, Tiane Warner, Christon Lewis 
               
 ## Description
 This project is a comprehensive data analysis and machine learning solution focused on predicting hotel booking cancellations. The project combines advanced data analysis, machine learning, and customer segmentation techniques to help hotels better understand customers and predict booking cancellations to aid in improved marketing and promotion strategies. 
